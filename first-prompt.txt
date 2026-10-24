@@ -1,0 +1,11 @@
+create a AI resume builder web app using the following technologies (react-vite, node) using this color pallete(Iron Man colors)
+
+the app must include the following:
+
+1. user must be able to register/login
+2. user must be able to buy credits to use paid version of the app (implement only interface free plan = 0 & paid plan = R100)
+3. the app must have bottom menu 
+4. name of the web app is IronMan_ResumeBuilder , also create a 3d logo using IronMan and IronMan must be the of website
+
+also recommend me best options to choose from
+for step added test the app and fix the errors and show where errors where fixed
